@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">我的应用作品集</string>
+    <string name="movies">热门电影</string>
+    <string name="stock">雄鹰股票</string>
+    <string name="browser">XYZ浏览器</string>
+    <string name="news">最新闻</string>
+    <string name="graduationProject">毕业设计</string>
+    <string name="startApplication">启动应用</string>
+</resources>
